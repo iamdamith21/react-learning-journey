@@ -1,16 +1,26 @@
-# React + Vite
+# React Learning Journey
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains my daily React learning progress.
 
-Currently, two official plugins are available:
+## Day 01
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Topics learned:
 
-## React Compiler
+- What is React
+- Components
+- JSX
+- Import and export
+- Reusable UI components
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Mini Project
 
-## Expanding the ESLint configuration
+Created a simple developer profile card using React components.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tools Used
+
+- React
+- Vite
+- JavaScript
+- CSS
+- Git
+- GitHub
