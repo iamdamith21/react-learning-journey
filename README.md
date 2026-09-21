@@ -12,7 +12,7 @@ Topics learned:
 - Import and export
 - Reusable UI components
 
-## Mini Project
+## Mini Project - Day 02
 
 Created a simple developer profile card using React components.
 
@@ -24,3 +24,19 @@ Created a simple developer profile card using React components.
 - CSS
 - Git
 - GitHub
+
+## Day 02
+
+Topics learned:
+
+- Props
+- Passing data from parent to child
+- Destructuring props
+- Boolean and number props
+- Default prop values
+- Conditional rendering with props
+- One-way data flow
+
+## Mini Project
+
+Built a team members dashboard using reusable components and props.
